@@ -1,0 +1,36 @@
+{
+  "name": "fajs-timepicker",
+  "version": "0.0.0-development",
+  "description": "Framework Agnostic Javascript Timepicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "outerlook",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outerlook/fajs-timepicker.git"
+  },
+  "keywords": [
+    "timepicker",
+    "time",
+    "picker",
+    "fajs",
+    "framework-agnostic",
+    "agnostic"
+  ],
+  "dependencies": {
+    "rxjs": "^7.8.0",
+    "imask": "6.4.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "vitest": "^0.27.2",
+    "cross-env": "^5.1.6",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-jest": "^21.15.0"
+  }
+}
